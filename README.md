@@ -1,6 +1,5 @@
 # Data Cleaning and Exploratory Data Analysis (EDA) Using SQL
 
-## Overview
 Welcome to the repository dedicated to Data Cleaning and Exploratory Data Analysis (EDA) using SQL! In this project, I've leveraged the power of SQL to delve deep into layoffs dataset, ensuring they're pristine and ready for analysis. This repository showcases my approach to cleaning messy data and extracting meaningful insights through comprehensive exploratory analysis techniques.
 
 ## Key Features
